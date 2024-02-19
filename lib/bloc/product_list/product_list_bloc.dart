@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:tr_app/data/model/product_model.dart';
+import 'package:tr_app/data/model/product/product_model.dart';
 import 'package:tr_app/data/repository/product_repository.dart';
 
 part 'product_list_event.dart';

@@ -2,10 +2,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:tr_app/bloc/bloc/cart_bloc.dart';
-import 'package:tr_app/data/model/cart_product_model.dart';
-import 'package:tr_app/data/model/cartmodel.dart';
-import 'package:tr_app/data/model/product_model.dart';
+import 'package:tr_app/bloc/cart/cart_bloc.dart';
+import 'package:tr_app/data/model/cart/cartmodel.dart';
+import 'package:tr_app/data/model/cart_product/cart_product_model.dart';
+import 'package:tr_app/data/model/product/product_model.dart';
 import 'package:tr_app/screens/product_list/product_list_page.dart';
 
 void main() async {

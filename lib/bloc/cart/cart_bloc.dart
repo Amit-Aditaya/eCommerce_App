@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
-import 'package:tr_app/data/model/cart_product_model.dart';
-import 'package:tr_app/data/model/cartmodel.dart';
+import 'package:tr_app/data/model/cart/cartmodel.dart';
+import 'package:tr_app/data/model/cart_product/cart_product_model.dart';
 import 'package:tr_app/utils/hive_boxes/boxes.dart';
 
 part 'cart_event.dart';

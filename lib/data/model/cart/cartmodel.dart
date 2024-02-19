@@ -1,5 +1,5 @@
 import 'package:hive/hive.dart';
-import 'package:tr_app/data/model/cart_product_model.dart';
+import 'package:tr_app/data/model/cart_product/cart_product_model.dart';
 
 part 'cartmodel.g.dart';
 

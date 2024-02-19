@@ -1,5 +1,5 @@
 import 'package:http/http.dart';
-import 'package:tr_app/data/model/product_model.dart';
+import 'package:tr_app/data/model/product/product_model.dart';
 
 class ProductRepository {
   Future<List<ProductModel>> getProductLst() async {

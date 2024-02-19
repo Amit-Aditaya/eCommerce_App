@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:tr_app/bloc/bloc/cart_bloc.dart';
+import 'package:tr_app/bloc/cart/cart_bloc.dart';
 import 'package:tr_app/screens/cart/cart_page.dart';
 
 class PrimaryAppBar extends StatelessWidget implements PreferredSizeWidget {

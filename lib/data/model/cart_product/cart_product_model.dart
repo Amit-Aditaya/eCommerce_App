@@ -1,6 +1,6 @@
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:tr_app/data/model/product_model.dart';
+import 'package:tr_app/data/model/product/product_model.dart';
 
 part 'cart_product_model.g.dart';
 
